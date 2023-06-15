@@ -20,7 +20,7 @@ const Home: NextPage = () => {
               </p>
               <p className="mx-auto mt-6 max-w-2xl text-lg  text-gray-600">
               Les Cryptomonnaies sont des monnaies digitales qui utilisent la cryptographie pour la sécurité. 
-              Ce qui veut dire qu'elles ne sont pas contrôlées par les banques et les états.
+              Ce qui veut dire qu &apos elles ne sont pas contrôlées par les banques et les états.
               </p>
              </div>
             {/* Main content - crypto cards */}
@@ -31,7 +31,7 @@ const Home: NextPage = () => {
               <p>
                  Produit par 
               </p>
-              <a href="https://www.binance.com" className="undelined text-indigo-500" target="_blank">
+              <a href="https://www.binance.com" className="undelined text-indigo-500" target="_blank" rel="noreferrer">
                 Binance
               </a>
             </div>

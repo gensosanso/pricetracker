@@ -45,7 +45,7 @@ function Crypto({ crypto }: Props) {
       ):(
         <Loader />
       )}
-      <a className="inline-flex items-center text-blue-600 mt-6" href={crypto.explorer} target="_blank">
+      <a className="inline-flex items-center text-blue-600 mt-6" href={crypto.explorer} target="_blank" rel="noreferrer">
       Explorer 
       <svg
   className="w-5 h-5 ml-2"
